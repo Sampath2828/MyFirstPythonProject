@@ -3,4 +3,4 @@ age = input("Enter Your Age:")
 
 print("Welcome", name)
 print("Your age is:", age)
-print("Congratulations! This is my first projrect.")
+print("Congratulations! This is my first project.")
